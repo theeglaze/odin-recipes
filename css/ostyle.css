@@ -1,0 +1,20 @@
+/* Written using Nano - Terminal Text Editor */ 
+
+body{
+	Arial, sans-serif
+}
+
+
+.odin{
+	height: auto;
+	width: 400px;
+	text-align: center;
+}
+
+ol{
+
+	font-size: 24px;
+	font-weight: 700;
+	list-style-position: inside;
+	text-align: center;
+}	
