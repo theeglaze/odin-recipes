@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, sans-serif;
+    list-style-position: inside;
+}
+
+div { 
+    background-color: rgb(168, 124, 3);
+    text-align: center;
+}
+
+.head {
+    font-size: 24px;
+}
+
+
+.liver{
+    height: auto;
+    width: 600px;
+    text-align: center;
+}
+
+ 
+p, ol, h2{
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+/* Arrange list items in a horizontal row (left - right) */
+    text-align: center;
+/* Arrange list items which populate multiple rows with center justification */ 
+}

@@ -4,7 +4,7 @@ body{
 }
 
 div { 
-    background-color: rgb(241, 103, 103);
+    background-color: rgb(124, 72, 3);
     text-align: center;
 }
 
@@ -13,7 +13,7 @@ div {
 }
 
 
-.bbq{
+.cookie{
     height: auto;
     width: 600px;
     text-align: center;
@@ -28,5 +28,8 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+/* Arrange list items in a horizontal row (left - right) */
+    text-align: center;
+/* Arrange list items which populate multiple rows with center justification */ 
 }
 
