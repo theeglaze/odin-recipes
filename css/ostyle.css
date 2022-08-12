@@ -1,15 +1,32 @@
 /* Written using Nano - Terminal Text Editor */ 
 
 body{
-	Arial, sans-serif
+	font-family: Arial, sans-serif
 }
+
+.head{
+	text-align: center;
+}
+
+div{
+	text-align: center;
+}
+
+
+/*img{
+	display: block;
+	margin: 0 auto;
+	width: 40%;
+"Code above is also used to center images in css"
+}*/
 
 
 .odin{
 	height: auto;
 	width: 400px;
-	text-align: center;
 }
+
+
 
 ol{
 

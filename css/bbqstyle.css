@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    list-style-position: inside;
+}
+
+div { 
+    background-color: rgb(241, 103, 103);
+    text-align: center;
+}
+
+.head {
+    font-size: 24px;
+}
+
+
+.bbq{
+    height: auto;
+    width: 600px;
+    text-align: center;
+}
+
+ 
+p, ol, h2{
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
